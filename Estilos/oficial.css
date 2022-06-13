@@ -33,3 +33,10 @@ iframe
 	margin:auto;
 	
 }
+@media(orientation:portrait)
+{
+	body
+	{
+		background:#1CCBAD;
+	}
+}
