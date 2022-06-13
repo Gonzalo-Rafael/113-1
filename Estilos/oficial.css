@@ -1,0 +1,35 @@
+*
+{
+	font font-family:verdana;
+}
+img
+{
+	display:block;
+	margin:auto;
+	height:50%;
+	width:50%;
+}
+h1
+{
+	color: red;
+	
+}
+table{
+	font-size:20px;
+	font-weight: bold;
+	width:100%;
+	background-color:#FF0000;
+	text-align: left
+	border-collapse:collapse;
+}
+th, td
+{
+	border: solid 1px black;
+	padding:30px;
+}
+iframe
+{
+	display:block;
+	margin:auto;
+	
+}
